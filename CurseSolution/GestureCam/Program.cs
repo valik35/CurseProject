@@ -10,6 +10,7 @@ namespace GestureCam
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }

@@ -1,1 +1,2 @@
 c:\users\valentyn\documents\visual studio 2013\Projects\CurseSolution\GestureCam\bin\Debug\GestureCam.exe.config
+C:\Users\Valentyn\Documents\GitHub\CurseProject\CurseSolution\GestureCam\bin\Debug\GestureCam.exe.config
